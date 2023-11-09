@@ -21,3 +21,7 @@
 - MySQL
 - Sequelize
 - Pagination
+
+
+## API Endpoints
+- Detailed API documentation available #https://documenter.getpostman.com/view/23195527/2s9YXiZMQU
